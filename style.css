@@ -1,0 +1,231 @@
+body {
+	background-color: #FFFFF2;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+     }
+
+td   {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+     }
+
+a    {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666699;
+     }
+a:visited, a:active, a:hover {
+	color: #666699;
+     }  
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+     }
+a.newlistingslink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666699;
+     }
+a.newlistingslink:visited, a.newlistingslink:active, a.newlistingslink:hover {
+	color: #666699;
+     }  
+
+.newlistings {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+     }
+.newlistingsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+     }
+.news {
+	text-align: justify;
+     }
+.newsspons {
+	text-align: justify;
+	background-color: #FEEEDD; 
+     }
+.newsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	font-style: italic;
+     }
+
+.smallnews {
+	text-align: justify;
+     }
+.smallnewsspons {
+	text-align: justify;
+	background-color: #FEEEDD; 
+     }
+.smallnewstitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	font-weight: bold;
+     }
+.smallnewstext {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+     }
+.smallnewsdate {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #999999;
+	font-style: italic;
+     }
+
+
+form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+     }
+a.toplink, a.toplink:hover, a.toplink:visited, a.toplink:active {
+	color: white;
+	text-decoration: none;
+}
+.toplink {
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.forCopyright, .forCopyright:hover, .forCopyright:visited, .forCopyright:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #ff8d00
+}
+.DISCLAIMER {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+        background-color: #FF8D00;
+	padding-left:5px;
+	padding-right:5px;
+	text-align: justify;
+     }
+
+.menutxt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+.bgcolor {
+	background-color: #ff8d00
+       }
+.rightmenu {
+	background-color: #FFFFFF
+       }
+.line {
+	background-color: #ff8d00
+       }
+th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #000000;
+}
+th.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+        background-color: #FF8D00;
+}
+
+.newlistingsdatetitle {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+        background-color: #FF8D00;
+}
+.detailsbg1 {
+	background-color: #FFFFFF;
+      }
+.detailsbg2 {
+	background-color: #FFECB0;
+      }
+.inpts {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFFFF2;
+	border: 1px inset #FEE498;
+	border-color: #FF8D00;
+	border-style: solid;
+}
+.sbmt {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000000;
+	background-color: #FFECB0;
+	border: 1px outset #FFFFE1;
+}
+a.hlp, a.hlp:active, a.hlp:visited, a.hlp:hover { 
+	font-family: verdana;
+	font-size: 12px;
+	color: black;
+	text-decoration: none;
+	cursor: help;
+      }
+
+.adblack {background-color: #CB7000}
+.adlight {background-color: #FEEEDD; text-align: left}
+a.adlink, a.adlink:hover, a.adlink:visited, a.adlink:active {color: #CB7000; font-size: 11px; text-decoration: none}
+.adtext  {color: #CB7000; font-size: 10px}
+.smalllink {font-size: 10px}
+.expiresdate {
+	color: #999999;
+	font-size: 10px;
+      }
+.permiumdark {
+	background-color: #FF8D00;
+      }
+.permiumlite {
+	background-color: #FEEEDD;
+      }
+.normaldark {
+	background-color: #FF8D00;
+      }
+.normallite {
+	background-color: #FFFFFF;
+      }
+.trialdark {
+	background-color: #FF8D00;
+      }
+.triallite {
+	background-color: #FFFFFF;
+      }
+.freedark {
+	background-color: #FF8D00;
+      }
+.freelite {
+	background-color: #FFFFFF;
+      }
+.gamesdark {
+	background-color: #FF8D00;
+      }
+.gameslite {
+	background-color: #FFFFFF;
+      }
+.scamdark {
+	background-color: #FF0000;
+      }
+.scamlite {
+	background-color: #FFCCCC;
+      }
+.closeddark {
+	background-color: #FF8D00;
+      }
+.closedlite {
+	background-color: #FFFFFF;
+      }
+
